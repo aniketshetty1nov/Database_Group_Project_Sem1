@@ -8,7 +8,11 @@ Student ID:  23177861  Name -  Aniket Shetty. -  Github User ID: aniketshetty1no
 
 Initial Setup with Docker: 
 --------------------------
-This document provides instructions on how to set up and run the project using Docker to manage PostgreSQL databases.
+docker-compose.yml - configuration files of Docker
+
+postgresql.env - consists of Username and password of postgrsSQL
+
+Instructions on how to set up and run the project using Docker to manage PostgreSQL databases.
  *Docker Setup*: 
    - Open a command prompt on Windows or a terminal on Mac.
    - Navigate to the project directory where the docker-compose.yml file is located.
