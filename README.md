@@ -1,13 +1,15 @@
-This Project of Database & Analytics Programming (MSCDAD_C_JAN24I)
-Student ID:  23215852  Name - Sahil Shashikant Pathak  Github User ID: sahilp05                                     
-                         
-Student ID:  23222468  Name - Awadhesh Trivedi  Github User ID: punjab-mail
-              
-Student ID:  23177861  Name -  Aniket Shetty  Github User ID: aniketshetty1nov 
+This Project of Database & Analytics Programming (MSCDAD_C_JAN24I).
 
-Initial Setup with Docker:
+Student ID:  23215852  Name - Sahil Shashikant Pathak. -  Github User ID: sahilp05                                     
+                         
+Student ID:  23222468  Name - Awadhesh Trivedi. -  Github User ID: punjab-mail
+              
+Student ID:  23177861  Name -  Aniket Shetty. -  Github User ID: aniketshetty1nov 
+
+Initial Setup with Docker: 
 --------------------------
-1. *Docker Setup*:
+This document provides instructions on how to set up and run the project using Docker to manage PostgreSQL databases.
+ *Docker Setup*: 
    - Open a command prompt on Windows or a terminal on Mac.
    - Navigate to the project directory where the docker-compose.yml file is located.
    - Execute the following command to create and start the Docker containers:
@@ -16,6 +18,7 @@ Initial Setup with Docker:
      
    - This will set up instances of PostgreSQL. Make sure Docker Desktop is running or that you have the Docker daemon started on your system.
 
+---------------------------------------
 ETL_Pipeline_Daap_prject.ipynb  
 -> This code is the Main code of ETL Pipeline which executes the entire ETL process of the project from start to End.
 
